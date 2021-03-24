@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ilievkosta
-- 👀 I’m interested in C#
+- 👀 I’m interested in PHP,Laravel, SQL, C#
 - 🌱 I’m currently learning C#, ASP NET
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - ilievkosta@gmail.com
 
 <!---
