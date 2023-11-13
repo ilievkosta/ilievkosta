@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ilievkosta
 - 👀 I’m interested in PHP,Laravel, SQL, C#
-- 🌱 I’m currently learning Java (Android Studio).
+- 🌱 I’m currently learning Java and am developing Apps with Android Studio.
 - 📫 How to reach me - ilievkosta@gmail.com
 
 <!---
